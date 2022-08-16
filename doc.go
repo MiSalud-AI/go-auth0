@@ -4,8 +4,8 @@ Package auth0 provides a client for using the Auth0 Management API.
 Usage
 
     import (
-        github.com/misalud-ai/auth0/go-auth0
-        github.com/misalud-ai/auth0/go-auth0/management
+        github.com/misalud-ai/go-auth0
+        github.com/misalud-ai/go-auth0/management
     )
 
 Initialize a new client using a domain, client ID and secret.

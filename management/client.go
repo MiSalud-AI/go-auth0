@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/misalud-ai/auth0/go-auth0"
+	"github.com/misalud-ai/go-auth0"
 )
 
 // Client is an application or a sso integration.

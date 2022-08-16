@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/misalud-ai/auth0/go-auth0"
+	"github.com/misalud-ai/go-auth0"
 )
 
 func TestJobManager_VerifyEmail(t *testing.T) {

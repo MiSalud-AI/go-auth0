@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/misalud-ai/auth0/go-auth0/internal/tag"
+	"github.com/misalud-ai/go-auth0/internal/tag"
 )
 
 const (

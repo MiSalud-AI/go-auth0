@@ -12,7 +12,7 @@ import (
 	"github.com/dnaeon/go-vcr/v2/recorder"
 	"github.com/stretchr/testify/require"
 
-	"github.com/misalud-ai/auth0/go-auth0"
+	"github.com/misalud-ai/go-auth0"
 )
 
 func setupHTTPRecordings(t *testing.T) {
