@@ -1,4 +1,4 @@
-module github.com/auth0/go-auth0
+module github.com/misalud-ai/go-auth0
 
 go 1.18
 

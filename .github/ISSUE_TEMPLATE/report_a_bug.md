@@ -15,7 +15,7 @@ For general support or usage questions, use the [Auth0 Community](https://commun
 Finally, to avoid duplicates, please search existing Issues before submitting one here.
 
 By submitting an Issue to this repository, you agree to the terms within the
-[Auth0 Code of Conduct](https://github.com/auth0/open-source-template/blob/master/CODE-OF-CONDUCT.md).
+[Auth0 Code of Conduct](https://github.com/misalud-ai/auth0/open-source-template/blob/master/CODE-OF-CONDUCT.md).
 -->
 
 

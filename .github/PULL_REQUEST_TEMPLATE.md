@@ -45,8 +45,8 @@ existing tests should complete without errors.
 Tick with "x" the boxes that apply. You can also fill these out after creating the PR.
 -->
 
-- [x] I have read and agreed to the terms within the [Auth0 Code of Conduct](https://github.com/auth0/open-source-template/blob/master/CODE-OF-CONDUCT.md).
-- [x] I have read the [Auth0 General Contribution Guidelines](https://github.com/auth0/open-source-template/blob/master/GENERAL-CONTRIBUTING.md).
+- [x] I have read and agreed to the terms within the [Auth0 Code of Conduct](https://github.com/misalud-ai/auth0/open-source-template/blob/master/CODE-OF-CONDUCT.md).
+- [x] I have read the [Auth0 General Contribution Guidelines](https://github.com/misalud-ai/auth0/open-source-template/blob/master/GENERAL-CONTRIBUTING.md).
 - [ ] I have reviewed my own code beforehand.
 - [ ] I have added documentation for new/changed functionality in this PR.
 - [ ] All active GitHub checks for tests, formatting, and security are passing.
