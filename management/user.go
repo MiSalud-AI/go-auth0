@@ -25,10 +25,10 @@ type User struct {
 	Name *string `json:"name,omitempty"`
 
 	// The users' given name.
-	GivenName *string `json:"given_name,omitempty"`
+	GivenName *string `json:"first_name,omitempty"`
 
 	// The users' family name.
-	FamilyName *string `json:"family_name,omitempty"`
+	FamilyName *string `json:"last_name,omitempty"`
 
 	// The users' username. Only valid if the connection requires a username.
 	Username *string `json:"username,omitempty"`
